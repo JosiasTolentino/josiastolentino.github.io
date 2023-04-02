@@ -130,29 +130,6 @@ footer {
   box-shadow: none;
 }
 
-/*
-.btn:hover,
-.btn:active {
-  background: linear-gradient(90deg, #343a40, #0c516e);
-  background-size: 400% 400%;
-  animation: anim 4s infinite ease-in-out;
-  color: var(--cor-texto3);
-  box-shadow: none;
-}
-
-@keyframes anim {
-  0% {
-    background-position: 0 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0 50%;
-  }
-}
-*/
-
 .intro {
   position: absolute;
   width: 1200px;
